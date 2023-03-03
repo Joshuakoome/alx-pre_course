@@ -1,7 +1,12 @@
 #!/bin/bashi
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALx school is so cool"
  
 =======
 echo "ALx school"
 >>>>>>> update_script
+=======
+echo "ALx school"
+
+>>>>>>> 39eb6ca5565b5ecfa92892051dd5af58bd1f1871
